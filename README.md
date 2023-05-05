@@ -1,2 +1,2 @@
 # html-portfolio-test
-This is a test of my online course on wed development
+This is a test of my online course on web development
